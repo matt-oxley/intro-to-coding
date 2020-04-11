@@ -15,7 +15,7 @@
 
 - Developers use these all the time
 - How to open them up / how to use them
-- Using them to fuck with the Facebook/Google homepage
+- Using them to mess with the Facebook/Google homepage
 
 ### Section 4: The skeleton model
 
