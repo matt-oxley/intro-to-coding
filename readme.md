@@ -27,7 +27,7 @@
 ### Section 5: Intro to HTML
 
 - Every website is basically just a bunch of boxes
-- Some of the most important tags: `<div>`, `<p>`, `<h1>`, `<span>`, `<link>` and what they are used for
+- Some of the most important tags: `<div>`, `<p>`, `<h1>`, `<span>`, `<link>`, `<input>`, `<button>` and what they are used for
 
 ### Section 6: Intro to CSS
 
@@ -59,7 +59,11 @@
 - Different data types come with different possibilities; introduction to 'methods'
 - Intro to some important methods; `Array.map`, `Array.forEach`, `Object.keys`
 
-### Section 10: Intro Javascript Part IV - Going modular
+### Section 10: Intro to Javascript Part IV - Getting dynamic
+
+- Introduction to `event`s and how to respond to them i.e. responding to actions that the user performs on your page. This means; `onclick`, `onblur`, `onchange`
+
+### Section 11: Intro to Javascript Part V - Going modular
 
 - How to package processes up into re-usable 'functions'
 - How to define your own functions
