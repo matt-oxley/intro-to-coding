@@ -2,14 +2,14 @@
 
 ## Checkpoints
 
-### Section 1: Throw away your mouse!
+### Section 1: You cheeky git
+
+- Intro to using [Git](https://git-scm.com/) software and the [GitHub](https://github.com/) platform. It's like Dropbox but for code. It lets you collaborate with others and saves your history in case you screw up
+
+### Section 2: Throw away your mouse!
 
 - Intro to using Terminal or [iTerm](https://iterm2.com/), it's faster!
 - Downloading a good text editor like [VSCode](https://code.visualstudio.com/) or [SublimeText](https://www.sublimetext.com/)
-
-### Section 2: You cheeky git
-
-- Intro to using [Git](https://git-scm.com/) software and the [GitHub](https://github.com/) platform. It's like Dropbox but for code. It lets you collaborate with others and saves your history in case you fuck up
 
 ### Section 3: Chrome developer tools
 
