@@ -68,3 +68,4 @@
 - How to package processes up into re-usable 'functions'
 - How to define your own functions
 - Programming is all about deciding what abstractions (functions) you need
+- Modular thinking and its use even outside of programming
