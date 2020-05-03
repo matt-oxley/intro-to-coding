@@ -10,7 +10,7 @@ Arguably, the best developer tools are found in the Chrome browser.
 
 1. Download Chrome if you don't have it
 2. Visit www.google.com
-3. Right-click anywhere on the page, and click "Inspect Element". You should see something like this open up, this is the dev tools <b>console</b>:
+3. Right-click anywhere on the page, and click "Inspect Element" (or it could be called just "Inspect"). You should see something like this open up, this is the dev tools <b>console</b>:
 
 <div>
     <img src="images/Chrome.png"
