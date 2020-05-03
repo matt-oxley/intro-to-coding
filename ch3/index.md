@@ -32,7 +32,7 @@ Notice three things about it:
         alt="Left panel"
         style="display: block; height: 400px;" />
 
-        It has lots of <b>tags</b> saying things like `<div>`, `<script>` and `<style>`. This is what HTML looks like. If you hover over a tag, you are able to see its corresponding visual representation highlighted in <b>blue</b> in the main browser window. By doing this, you should notice that a web page is just a bunch of nested rectangular boxes (in other words, <b>boxes within boxes</b>):
+    It has lots of <b>tags</b> saying things like `<div>`, `<script>` and `<style>`. This is what HTML looks like. If you hover over a tag, you are able to see its corresponding visual representation highlighted in <b>blue</b> in the main browser window. By doing this, you should notice that a web page is just a bunch of nested rectangular boxes (in other words, <b>boxes within boxes</b>):
 
         <img src="images/Hovering.png"
             alt="Hovering effect"
