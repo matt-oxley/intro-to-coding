@@ -12,38 +12,48 @@ Arguably, the best developer tools are found in the Chrome browser.
 2. Visit www.google.com
 3. Right-click anywhere on the page, and click "Inspect Element". You should see something like this open up, this is the dev tools <b>console</b>:
 
-<img src="images/Chrome.png"
-     alt="Dev tools first view"
-     style="float: left; margin-right: 10px;margin: 20px" />
+<div>
+    <img src="images/Chrome.png"
+         alt="Dev tools first view"
+         style="float: left; margin-right: 10px;margin: 20px" />
+</div>
 
 Notice three things about it:
 
 1. There are lots of <b>tabs</b> available:
 
-    <img src="images/Tabs.png"
-        alt="Dev tools tabs"
-        style="float: left; margin-right: 10px;margin: 20px" />
+ <div>
+     <img src="images/Tabs.png"
+         alt="Dev tools tabs"
+         style="float: left; margin-right: 10px;margin: 20px" />
+ </div>
 
 
     We will stay on the "Elements" tab for now. If you get lost somewhere else in console, just click on the "Elements" tab to return back to a screen that looks like the one above.
 
 2.  Lets first look at the panel on the <b>left</b>.
-    <img src="images/Left.png"
-        alt="Left panel"
-        height="300px"
-        style="display: block;margin: 20px" />
+    <div>
+        <img src="images/Left.png"
+            alt="Left panel"
+            height="300px"
+            style="display: block;margin: 20px" />
+    </div>
 
     It has lots of <b>tags</b> saying things like `<div>`, `<script>` and `<style>`. This is what HTML looks like. If you hover over a tag, you are able to see its corresponding visual representation highlighted in <b>blue</b> in the main browser window. By doing this, you should notice that a web page is just a bunch of nested rectangular boxes (in other words, <b>boxes within boxes</b>):
 
-    <img src="images/Hovering.png"
-        alt="Hovering effect"
-        style="float: left; margin-right: 10px;margin: 20px" />
+    <div>
+        <img src="images/Hovering.png"
+            alt="Hovering effect"
+            style="float: left; margin-right: 10px;margin: 20px" />
+    </div>
 
 3.  Now let's look at the panel on the <b>right</b>.
-    <img src="images/Right.png"
-        alt="Right panel"
-        height="400px"
-        style="display: block; height: 400px;margin: 20px" />
+    <div>
+        <img src="images/Right.png"
+            alt="Right panel"
+            height="400px"
+            style="display: block; height: 400px;margin: 20px" />
+    </div>
 
     Here we see the <b>CSS rules</b> for the website. This is what is responsible for making all the rectangular boxes look pretty.
 
@@ -55,15 +65,19 @@ Now let's try and make Google's home page a garish orange color.
 2. Click on it. You should see the whole page highlighted in blue in the main browser. This is because the `<body>` tag covers the entire surface of the page.
 3. Turn your attention to the CSS panel and look at the top of it, where there is a section that says `element.style {}`. This is where the highest precedence styling rules go, in other words, the styles that you specify here are very likely to influence the overall look of the page.
 4. Within the curly braces, type: `background: orange`:
-   <img src="images/BackgroundOrange.png"
-       alt="Updated style"
-       height="50px"
-       style="display: block; height: 50px; margin: 20px" />
+    <div>
+        <img src="images/BackgroundOrange.png"
+            alt="Updated style"
+            height="50px"
+            style="display: block; height: 50px; margin: 20px" />
+    </div>
 5. Observe the awesome new Google website design:
-   <img src="images/OrangeGoogle.png"
-       alt="Updated style"
-       height="250px"
-       style="display: block; height: 250px;margin: 20px" />
+    <div>
+        <img src="images/OrangeGoogle.png"
+            alt="Updated style"
+            height="250px"
+            style="display: block; height: 250px;margin: 20px" />
+    </div>
 
 ## Challenge
 
