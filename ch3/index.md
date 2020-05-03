@@ -14,7 +14,7 @@ Arguably, the best developer tools are found in the Chrome browser.
 
 <img src="images/Chrome.png"
      alt="Dev tools first view"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;margin: 20px" />
 
 Notice three things about it:
 
@@ -22,7 +22,7 @@ Notice three things about it:
 
     <img src="images/Tabs.png"
         alt="Dev tools tabs"
-        style="float: left; margin-right: 10px;" />
+        style="float: left; margin-right: 10px;margin: 20px" />
 
 
     We will stay on the "Elements" tab for now. If you get lost somewhere else in console, just click on the "Elements" tab to return back to a screen that looks like the one above.
@@ -30,18 +30,18 @@ Notice three things about it:
 2.  Lets first look at the panel on the <b>left</b>.
     <img src="images/Left.png"
         alt="Left panel"
-        style="display: block; height: 400px;" />
+        style="display: block; height: 300px;margin: 20px" />
 
     It has lots of <b>tags</b> saying things like `<div>`, `<script>` and `<style>`. This is what HTML looks like. If you hover over a tag, you are able to see its corresponding visual representation highlighted in <b>blue</b> in the main browser window. By doing this, you should notice that a web page is just a bunch of nested rectangular boxes (in other words, <b>boxes within boxes</b>):
 
-        <img src="images/Hovering.png"
-            alt="Hovering effect"
-            style="float: left; margin-right: 10px;" />
+    <img src="images/Hovering.png"
+        alt="Hovering effect"
+        style="float: left; margin-right: 10px;margin: 20px" />
 
 3.  Now let's look at the panel on the <b>right</b>.
     <img src="images/Right.png"
         alt="Right panel"
-        style="display: block; height: 400px;" />
+        style="display: block; height: 400px;margin: 20px" />
 
     Here we see the <b>CSS rules</b> for the website. This is what is responsible for making all the rectangular boxes look pretty.
 
@@ -55,11 +55,11 @@ Now let's try and make Google's home page a garish orange color.
 4. Within the curly braces, type: `background: orange`:
    <img src="images/BackgroundOrange.png"
        alt="Updated style"
-       style="display: block; height: 50px;" />
+       style="display: block; height: 50px; margin: 20px" />
 5. Observe the awesome new Google website design:
    <img src="images/OrangeGoogle.png"
        alt="Updated style"
-       style="display: block; height: 250px;" />
+       style="display: block; height: 250px;margin: 20px" />
 
 ## Challenge
 
