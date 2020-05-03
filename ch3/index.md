@@ -28,8 +28,7 @@ Notice three things about it:
          style="float: left; margin-right: 10px;margin: 20px" />
  </div>
 
-
-    We will stay on the "Elements" tab for now. If you get lost somewhere else in console, just click on the "Elements" tab to return back to a screen that looks like the one above.
+We will stay on the "Elements" tab for now. If you get lost somewhere else in console, just click on the "Elements" tab to return back to a screen that looks like the one above.
 
 2.  Lets first look at the panel on the <b>left</b>.
     <div>
@@ -65,19 +64,19 @@ Now let's try and make Google's home page a garish orange color.
 2. Click on it. You should see the whole page highlighted in blue in the main browser. This is because the `<body>` tag covers the entire surface of the page.
 3. Turn your attention to the CSS panel and look at the top of it, where there is a section that says `element.style {}`. This is where the highest precedence styling rules go, in other words, the styles that you specify here are very likely to influence the overall look of the page.
 4. Within the curly braces, type: `background: orange`:
-    <div>
-        <img src="images/BackgroundOrange.png"
-            alt="Updated style"
-            height="50px"
-            style="display: block; height: 50px; margin: 20px" />
-    </div>
+ <div>
+     <img src="images/BackgroundOrange.png"
+         alt="Updated style"
+         height="50px"
+         style="display: block; height: 50px; margin: 20px" />
+ </div>
 5. Observe the awesome new Google website design:
-    <div>
-        <img src="images/OrangeGoogle.png"
-            alt="Updated style"
-            height="250px"
-            style="display: block; height: 250px;margin: 20px" />
-    </div>
+ <div>
+     <img src="images/OrangeGoogle.png"
+         alt="Updated style"
+         height="250px"
+         style="display: block; height: 250px;margin: 20px" />
+ </div>
 
 ## Challenge
 
